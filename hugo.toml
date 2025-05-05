@@ -27,3 +27,7 @@ target = 'static/images'
     inlinecontent = false
     lightbox = false
     shadow = false
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
