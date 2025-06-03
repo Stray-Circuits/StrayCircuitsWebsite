@@ -1,6 +1,5 @@
 +++
 title = 'Tabby Terror'
-# date = 2024-01-14T07:07:07+01:00
 weight = 10
 featuredImage = "/images/tabby_terror_render.gif"
 +++
@@ -8,7 +7,8 @@ featuredImage = "/images/tabby_terror_render.gif"
 ## The Tabby Terror
 **Distortion / Fuzz / Growl**
 
-<!-- <img src="/images/tabby_terror_render.gif" alt="Tabby Terror Render" width="20%"> -->
+##### *Available Soon!* #####
+
 ![Tabby-Terror](/images/tabby_terror_render.gif?width=20vw)
 
 ### Sound
@@ -25,5 +25,4 @@ The **Volume** and **Gain** knobs are straight ahead - loudness and distortion c
 
 Max out the **Gain**, **Hi**, or **Low** controls to go from growl to snarl and break into fuzz territory, or max out multiple for full on arched-back hair raised terror.
 
-<!-- <img src="/images/Nicky-sleeper.jpg" alt="Nicky!" width="70%"> -->
 ![Nicky](/images/Nicky-sleeper.jpg?width=70vw)
